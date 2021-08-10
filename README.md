@@ -56,5 +56,5 @@ and see its output at  http://localhost:7000/.
 This application does nothing of any interest, but if you see the phrase "Javalin app built using Kotlin",
 you'll know that your toolchain works.
 
-*Note*: If running gradle on Windows Subsystem for Linux (WSL), do not place your files in /mnt/c/ but rather in /home/wherever/, otherwise the compiler will run with painful slowness 
+*Note*: If running gradle on Windows Subsystem for Linux (WSL), do not place your files in /mnt/c/ but rather in /home/wherever/, as otherwise the compiler will run with painful slowness 
 
